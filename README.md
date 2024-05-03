@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning database management, machine learning for algorithmic trading, and web development.
 - 💞️ I’m looking to collaborate on anything Fintech related.
 - 📫 Email me at sashazli@wpi.edu.
-- ⚡ Fun fact: I was born in Khobar, Saudi Arabia
+- ⚡ Fun fact: I was born in Lahore, Pakistan 🇵🇰
 
 <!---
 syedshazli/syedshazli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
