@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Database Management, Machine Learning for Finance, and Web Development.
 - 💞️ I’m looking to collaborate on anything Fintech related.
 - 📫 Email me at sashazli@wpi.edu.
+- 🧑‍💻 My favorite thing about GitHub is being able to track my consistentcy
 - ⚡ Fun fact: I am President of WPI's Investing Association
 
 <!---
