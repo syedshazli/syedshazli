@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything Fintech related.
 - 📫 Email me at sashazli@wpi.edu.
 - 🧑‍💻 My favorite thing about GitHub is being able to track my consistentcy
-- ⚡ Fun fact: I am President of WPI's Investing Association. Feel free to contact me to learn more.
+- ⚡ Fun fact: I am President of WPI's Investing Association. Feel free to contact me to learn more!
 
 <!---
 syedshazli/syedshazli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
