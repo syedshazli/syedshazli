@@ -5,7 +5,7 @@
 - 📫 Email me at sashazli@wpi.edu.
 - 🧑‍💻 My favorite thing about GitHub is being able to track my consistentcy
 - ⚡ Fun fact: I am President of WPI's Investing Association. Feel free to contact me to learn more!
-- 🔜 Personal Website Coming soon!
+- 🔜 Personal Website and Investing Association Optimization Project coming soon!
 
 🤖 Programming Languages:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
