@@ -31,7 +31,7 @@
  
  🕸️ Web Development:
 	
- 	[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap&perline=3)](https://skillicons.dev)
 
  📱 Database Management:
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
