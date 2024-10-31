@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @syedshazli, a sophomore at Worcester Polytechnic Institute (WPI) studying CS and Fintech
+- 👋 Hi, I’m @syedshazli, a sophomore at Worcester Polytechnic Institute (WPI) studying CS, ECE, and Fintech
 - 👀 I’m interested in using software to solve complex problems that can change the world.
-- 🌱 I’m currently learning Database Management, Machine Learning for Finance, C#, and Web Development.
+- 🌱 I’m currently learning Database Management, Machine Learning, Embedded Systems, and Web Development.
 - 💞️ I’m looking to collaborate on anything Fintech related.
 - 📫 Email me at sashazli@wpi.edu.
 - 🧑‍💻 My favorite thing about GitHub is being able to track my consistentcy
 - ⚡ Fun fact: I am President of WPI's Investing Association. Feel free to contact me to learn more!
-- 🔜 Personal Website and Investing Association Optimization Project coming soon!
+- 🔜 Personal Website and Jane Street Kaggle Submission coming soon!
 
 🤖 Programming Languages:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
