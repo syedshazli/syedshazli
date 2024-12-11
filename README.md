@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syedshazli, a sophomore at Worcester Polytechnic Institute (WPI) studying CS, ECE, and Fintech
+- 👋 Hi, I’m @syedshazli, a sophomore at Worcester Polytechnic Institute (WPI) studying CS, ECE, and Data Science
 - 👀 I’m interested in using software to solve complex problems that can change the world.
 - 🌱 I’m currently learning Database Management, Machine Learning, Embedded Systems, and Web Development.
 - 💞️ I’m looking to collaborate on anything Fintech related.
