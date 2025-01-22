@@ -42,7 +42,6 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 
 
-[![Syed Shazli's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=syedshazli&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/syedshazli)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=syedshazli&theme=bear)](https://git.io/streak-stats)
 <!---
