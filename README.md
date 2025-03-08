@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syedshazli, a sophomore at Worcester Polytechnic Institute (WPI) studying CS, ECE, and Data Science
 - 👀 I’m interested in using software to solve complex problems that can help anyone, from developers to a random person walking on the street.
-- 🌱 I’m currently learning Computer Architecture, Machine Learning, Embedded Systems, and Web Development.
+- 🌱 I’m currently learning Computer Architecture, Machine Learning and Embedded Systems.
 - 💞️ I’m looking to collaborate on anything Open-Source related.
 - 📫 Email me at sashazli@wpi.edu.
 - 🧑‍💻 My favorite thing about GitHub is being able to track my consistentcy
@@ -27,7 +27,7 @@
  	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code>
 
  
- 🕸️ Web Development: [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap&perline=5)](https://skillicons.dev)
+ //🕸️ Web Development: [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap&perline=5)](https://skillicons.dev)
 
  📱 Database Management:
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
