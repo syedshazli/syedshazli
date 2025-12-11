@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @syedshazli, a junior at Worcester Polytechnic Institute (WPI) studying CS, ECE, and Data Science
-- 👀 I’m interested in using software to solve complex problems that can help anyone, from developers to a random person walking on the street.
+- 👋 Hi, I’m @syedshazli, a junior at Worcester Polytechnic Institute (WPI) studying CS, ECE, and Mathematics
 - 🌱 I’m currently learning about Compilers, ML Systems, and C++ Refactoring Patterns.
-- 💞️ I’m looking to collaborate on anything Open-Source related.
 - 📫 Email me at sashazli@wpi.edu.
-- 🧑‍💻 My favorite thing about GitHub is being able to track my consistentcy
-- ⚡ Fun fact: I love playing soccer!
-- 🔜 Personal Website and Embedded Systems Projects coming soon!
+
+
 
 🤖 Programming Languages:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
